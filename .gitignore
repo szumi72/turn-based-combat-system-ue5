@@ -1,0 +1,21 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+FileOpenOrder/
+.vs/
+*.sln
+*.obj
+*.pdb
+
+# Visual Studio user files
+.vs/
+*.sln
+*.suo
+*.user
+*.useroscc
+*.sln.docstates
+
+# Build results
+*.pdb
+*.obj
