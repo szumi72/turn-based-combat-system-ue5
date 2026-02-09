@@ -42,7 +42,9 @@ The game includes a lightweight quest system:
 • After completing a quest, the unit returns with:
   - Gold
   - OR an item that increases the unit’s damage
+    
 • Quest progress is handled automatically
+
 • Returned rewards directly affect future battles
 
 This system introduces strategic choices:
@@ -66,16 +68,21 @@ Should a unit fight now, or be sent on a quest for long-term benefits?
 --- CONTROLS ---
 
 • Jump / Space – Confirm QTE
+
 • Mouse – UI interaction
+
+• Q - Open army staticstics
 
 
 --- TECHNICAL NOTES ---
 
 • Unreal Engine C++
+
 • Heavy use of:
   - Delegates
   - Animation Notifies
   - Widgets (UMG)
+
 • Project focuses on logic, systems, and gameplay flow rather than visuals
 
 
