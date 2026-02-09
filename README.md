@@ -7,7 +7,7 @@ The original version of the game was text-based and focused purely on logic and 
 This Unreal Engine version expands that concept into a visual and interactive experience
 while preserving the core mechanics.
 
-(Optionally: link to the original terminal version can be found here)
+(link to the original terminal version can be found here)
 https://github.com/szumi72/wfiis-3sem-oop/tree/0645eaf03c93265325c5218f4c2ab921320dcafb/labRpgGame
 
 
