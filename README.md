@@ -1,4 +1,4 @@
-Santa vs Elves – UE Project
+## Santa vs Elves – UE Project
 
 This project is a transformation of a simple terminal-based game created during university programming labs
 into a fully interactive Unreal Engine game with UI, animations, and real-time systems.
@@ -11,7 +11,7 @@ while preserving the core mechanics.
 https://github.com/szumi72/wfiis-3sem-oop/tree/0645eaf03c93265325c5218f4c2ab921320dcafb/labRpgGame
 
 
---- CORE CONCEPT ---
+## CORE CONCEPT 
 
 The game is a turn-based battle system between two factions:
 - Santa’s Army
@@ -33,7 +33,7 @@ Battles are resolved using animations and a Quick Time Event (QTE) system.
 • End Game screen (win / lose conditions)
 
 
---- QUEST SYSTEM ---
+## QUEST SYSTEM 
 
 The game includes a lightweight quest system:
 
@@ -51,7 +51,7 @@ This system introduces strategic choices:
 Should a unit fight now, or be sent on a quest for long-term benefits?
 
 
---- BATTLE FLOW ---
+## BATTLE FLOW
 
 1. Battle starts if both armies have units
 2. Active units are selected from each army
@@ -65,7 +65,7 @@ Should a unit fight now, or be sent on a quest for long-term benefits?
 6. Battle continues until one army is defeated
 
 
---- CONTROLS ---
+## CONTROLS 
 
 • Jump / Space – Confirm QTE
 
@@ -74,7 +74,7 @@ Should a unit fight now, or be sent on a quest for long-term benefits?
 • Q - Open army staticstics
 
 
---- TECHNICAL NOTES ---
+## TECHNICAL NOTES 
 
 • Unreal Engine C++
 
@@ -86,7 +86,7 @@ Should a unit fight now, or be sent on a quest for long-term benefits?
 • Project focuses on logic, systems, and gameplay flow rather than visuals
 
 
---- PROJECT GOAL ---
+## PROJECT GOAL
 
 The main goal of this project was not to create a polished commercial game,
 but to demonstrate how a simple terminal game concept can be expanded into
@@ -100,4 +100,4 @@ This project serves as a learning and portfolio piece.
 
 ## Gameplay Video
 
-[![Watch the video]](https://youtu.be/JvT87R__GZU)
+[![Gameplay video]](https://youtu.be/JvT87R__GZU)
