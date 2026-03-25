@@ -1,4 +1,4 @@
-## Santa vs Elves – UE Project
+## Turn-Based Combat System (Unreal Engine C++)
 
 This project is a transformation of a simple terminal-based game created during university programming labs
 into a fully interactive Unreal Engine game with UI, animations, and real-time systems.
