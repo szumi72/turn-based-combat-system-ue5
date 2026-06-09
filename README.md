@@ -98,6 +98,4 @@ a full Unreal Engine project with:
 
 This project serves as a learning and portfolio piece.
 
-## Gameplay Video
 
-[![Gameplay video]](https://youtu.be/JvT87R__GZU)
